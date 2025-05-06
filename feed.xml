@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/seatres/gitblog</id><title>RSS feed of seatres's gitblog</title><updated>2025-05-06T06:34:03.252993+00:00</updated><link href="https://github.com/seatres/gitblog"/><link href="https://raw.githubusercontent.com/seatres/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/seatres/gitblog/issues/1</id><title>测试</title><updated>2025-05-06T06:34:03.472754+00:00</updated><content type="html"><![CDATA[<p>测试内容，有修改，有修改，有修改。</p>
+<p><img src="https://github.com/user-attachments/assets/d83d39f1-b2fa-4975-bc17-92c6cb66bf97" alt="Image" /></p>
+]]></content><link href="https://github.com/seatres/gitblog/issues/1"/><category term="记录"/><published>2025-05-06T05:55:51+00:00</published></entry></feed>
